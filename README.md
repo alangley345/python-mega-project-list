@@ -1,6 +1,6 @@
 # python-mega-project-lsit
 
-Stolen from https://github.com/karan/Projects. Edited as items are coded up. 
+Stolen from https://github.com/karan/Projects. Items are removed as items are coded up. 
 
 ### Numbers
 
